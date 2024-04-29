@@ -1,0 +1,33 @@
+{
+  "courses": [
+    {
+      "course_name": "Introduction to Programming",
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "chapter_title": "Basic Concepts of Programming"
+        },
+        {
+          "chapter_number": 2,
+          "chapter_title": "Variables and Data Types"
+        },
+        {
+          "chapter_number": 3,
+          "chapter_title": "Control Structures"
+        },
+        {
+          "chapter_number": 4,
+          "chapter_title": "Functions and Modules"
+        },
+        {
+          "chapter_number": 5,
+          "chapter_title": "Data Structures"
+        },
+        {
+          "chapter_number": 6,
+          "chapter_title": "Introduction to Algorithms"
+        }
+      ]
+    }
+  ]
+}
